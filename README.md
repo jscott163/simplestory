@@ -1,1 +1,2 @@
 # simplestory
+A simple sentence.
